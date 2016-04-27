@@ -43,7 +43,7 @@ Branches
 * other branches will exist as needed
 
 
-Wish list
+Issues
 ---------
-* if you would like to suggest a feature, please create an
+* if you would like to suggest a feature or report a problem, please create an
   [issue](https://github.com/dfeehan/networkreporting/issues)
